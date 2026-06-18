@@ -1,1 +1,1 @@
-﻿nuitka --standalone --onefile --windows-console-mode=disable --script=updater_script.py --output-dir=dist
+nuitka --standalone --onefile --windows-console-mode=disable --script=updater_script.py --output-dir=dist
