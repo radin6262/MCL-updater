@@ -1,0 +1,8 @@
+{
+  "fullscreen": true,
+  "width": 854,
+  "height": 480,
+  "java_path": "java",
+  "ram_mb": 2048,
+  "java_args": ""
+}

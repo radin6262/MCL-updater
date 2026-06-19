@@ -1,1 +1,1 @@
-nuitka --standalone --onefile --windows-console-mode=disable --script=updater_script.py --output-dir=dist
+nuitka --script=updater.py --standalone --onefile --onefile-no-compression --enable-plugin=pyside6 --windows-console-mode=disable --include-package=requests --nofollow-import-to=cryptography --output-dir=dist --assume-yes-for-downloads --enable-plugin=upx --upx-binary="D:\upx\upx.exe"
